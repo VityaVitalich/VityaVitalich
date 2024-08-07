@@ -1,10 +1,6 @@
 # Viktor Moskvoretskii
 
-AI Researcher focusing on NLP, AI Safety, and Trustworthiness.
-
-## 📫 Contact
-
-- Email: [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com)
+AI Researcher focusing on NLP, AI Safety, and Trustworthiness. Reach me at [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com).
 
 ## 🎓 Education
 
@@ -20,13 +16,6 @@ AI Researcher focusing on NLP, AI Safety, and Trustworthiness.
 - **Intern Researcher** — DeepPavlov.ai (08.2022 - 06.2023)
 - **Data Scientist** — VTB Housing Ecosystem (07.2020 - 07.2021)
 - **Intern Researcher** — HSE UX Lab (09.2019 - 03.2020)
-
-## 🏆 Achievements
-
-- Reviewer at ACL, EMNLP, LREC, COLING, AINL
-- Yandex Scholarship for exceptional GPA and significant research contributions in 2024
-- HSE Academic Scholarship for outstanding academic performance in 2024
-- HSE 2023 Best Student Paper Award
 
 ## 📚 Publications
 
