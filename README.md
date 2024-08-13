@@ -1,6 +1,6 @@
 # Viktor Moskvoretskii [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com)
 
-AI Researcher focusing on NLP, AI Safety, and Trustworthiness. [My CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV%20(4).pdf)
+AI Researcher focusing on NLP, AI Safety, and Trustworthiness. [CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV%20(4).pdf)
 
 ## 🎓 Education
 
