@@ -1,4 +1,4 @@
-# Viktor Moskvoretskii [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com)
+# Viktor Moskvoretskii.
 
 AI Researcher focusing on NLP, AI Safety, and Trustworthiness. [CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV%20(4).pdf)
 
@@ -23,3 +23,4 @@ For a complete list of publications, please visit:
 - [Google Scholar](https://scholar.google.com/citations?hl=ru&user=3IDoK8YAAAAJ&view_op=list_works&sortby=pubdate)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Viktor-Moskvoretskii/2291142916)
 
+Reach me via [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com)
