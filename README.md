@@ -1,6 +1,6 @@
 # Viktor Moskvoretskii.
 
-AI Researcher focusing on Lexical Semantics, Machine Translation and LLM Trustworthiness. [CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV%20(4).pdf)
+AI Researcher focusing on LLM Trustworthiness, Lexical Semantics and RL Methods. [Full CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV%20(5).pdf)
 
 ## 🎓 Education
 
