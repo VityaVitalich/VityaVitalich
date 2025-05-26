@@ -6,7 +6,7 @@ AI Researcher focusing on Self-Improvement, LLM Trustworthiness and RL Methods. 
 
 - **Ph.D. in Applied Mathematics and Informatics** — EPFL, Lausanne (09.2025 - Present)
 - **M.S. in Applied Mathematics and Informatics** — HSE University, Moscow (09.2023 - 06.2025)
-- **Diploma in Applied Mathematics and Informatics** — MSU, AI Masters (09.2021 - 06.2023)
+- **Diploma in Applied Mathematics and Informatics** — MSU, Moscow (09.2021 - 06.2023)
 - **B.S. in Neuroscience** — HSE University, Moscow (09.2018 - 06.2022)
 
 ## 💼 Positions
