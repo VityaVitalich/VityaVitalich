@@ -1,6 +1,6 @@
 # Viktor Moskvoretskii.
 
-AI Researcher focusing on Self-Improvement, LLM Trustworthiness and RL Methods. [Full CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV_PhD.pdf)
+AI Researcher focusing on Self-Improvement, LLM Trustworthiness and RL Methods. [Full CV](https://github.com/VityaVitalich/VityaVitalich/blob/main/cv.pdf)
 
 ## 🎓 Education
 
