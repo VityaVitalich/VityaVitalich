@@ -14,7 +14,6 @@ AI Researcher focusing on LLM Trustworthiness and Safety. [Full CV](https://gith
 - **Doctoral Researcher** — EPFL, DLab (09.2025 - Present)
 - **Research Engineer** — Skoltech (07.2023 - 09.2025)
 - **Intern Researcher** — DeepPavlov.ai (08.2022 - 06.2023)
-- **Intern Researcher** — HSE UX Lab (09.2019 - 03.2020)
 
 ## 📚 Publications
 
