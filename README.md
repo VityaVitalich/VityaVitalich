@@ -24,6 +24,4 @@ For a complete list of publications, please visit:
 
 ## 📚 Collaboration
 
-If interested in collaboration, you may find my [Research Proposals](https://github.com/VityaVitalich/VityaVitalich/blob/main/Moskvoretskii_CV_PhD.pdf)
-
 Reach me via [vvmoskvoretskii@gmail.com](mailto:vvmoskvoretskii@gmail.com)
