@@ -4,7 +4,7 @@ AI Researcher focusing on LLM Trustworthiness and Safety. [Full CV](https://gith
 
 ## 🎓 Education
 
-- **Ph.D. in Applied Mathematics and Informatics (With Fellowship)** — EPFL, Lausanne (09.2025 - Present)
+- **Ph.D. in Applied Mathematics and Informatics** — EPFL, Lausanne (09.2025 - Present)
 - **M.S. in Applied Mathematics and Informatics with honors** — HSE University, Moscow (09.2023 - 06.2025)
 - **Diploma in Applied Mathematics and Informatics** — MSU, Moscow (09.2021 - 06.2023)
 - **B.S. in Neuroscience with honors** — HSE University, Moscow (09.2018 - 06.2022)
